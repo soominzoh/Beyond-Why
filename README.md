@@ -1,6 +1,6 @@
-# 10th-template
+# ？Beyond-Why
 
-<h1 align="center"> 10th Template </h1>
+<h1 align="center"> Beyond-Why </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
@@ -19,34 +19,29 @@
 
 > Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
 
-🚀 {{프로젝트명}} — 가짜연구소 템플릿 프로젝트
-“함께 만드는 우연한 혁명(Serendipity Revolution)”
-진실함과 신뢰를 바탕으로 AI/DS 혁신 커뮤니티와 기술 실험을 진행합니다.
+🚀 Beyond Why — 가짜연구소 11기 인과추론 연구 및 활용 프로젝트
+- Why, 그 너머를 탐구하고 실제 현실에서 활용할 수 있는 방법을 연구합니다.
 
 ## 🌟 프로젝트 목표 (Project Vision)
-_"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
-- Graph-based RAG 스터디 및 프로젝트
-- 개인 성장과 집단 지혜의 시너지 창출
-- 오픈소스 정신을 바탕으로 한 지식 공유 문화
-- 실패를 성공의 디딤돌로 만드는 실험적 접근
-- 논문 리뷰 프로젝트 — 최신 AI 논문 분석, 토론, 실험 재현
-- 책 기반 스터디 — 머신러닝/데이터사이언스 주요 서적 공동 학습 및 적용
-- 오픈소스 프로젝트 — AI·데이터 처리 관련 라이브러리 개발 및 개선
-- 컨퍼런스 논문 투고 — 최신 연구 수행 및 국제 학회 제출 준비
-
+- “이론에서 실전까지: 인과추론 학습에서 실무 적용까지”
+- 《실무로 통하는 인과추론 with 파이썬》(한빛미디어) 교재 기반 학습 (17주)
+- 매주 학습 → 정리 → 토론을 통해 개인별 지식 축적
+- 최종적으로 실무 적용을 위한 체크리스트 및 가이드라인 제작
+- 오픈소스 정신을 바탕으로 산출물 GitHub/Notion 공개
+- 실무형 인과추론 템플릿 제작을 목표로 함
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 김찬란 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI/추천 시스템 최적화             |
-| **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
+| **Project Manager** | 김동섭 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) |         |
+| **Member** | 모집 중 |   |                   |
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
 ```mermaid
 gantt
-    title 2025 AI 프로젝트 여정
+    title 2025 Beyond-Why 프로젝트 여정
     section 핵심 마일스톤
     이론 연구       :a1, 2025-09-01, 30d
     MVP 개발        :a2, after a1, 45d
@@ -71,52 +66,46 @@ class CollaborationFramework:
     
     def workflow(self):
         return """주간 사이클:
-        1️⃣ 월요일: 스프린트 플래닝 (Notion 타임라인 공유)
-        2️⃣ 수요일: 코드 리뷰 세션 (Live Share)
-        3️⃣ 금요일: 데모데이 (실제 적용 사례 발표)"""
+        1️⃣ 화요일: 오후 6시까지 학습 내용 정리 후 Git Repository에 업데이트 
+        2️⃣ 수요일: 오후 8시 정기 모임 (Discord)
+        3️⃣ 매월 마지막 정기 모임: 오프라인 모임"""
 ```
 
 
 ## 📈 성과 지표 (Achievement Metrics)
-**2024 주요 KPI**  
+**2025 주요 KPI**  
 | 지표                     | 목표치 | 현재 달성률 |
 |--------------------------|--------|-------------|
-| 커밋 수                  | 1,200  | 83%         |
-| 이슈 해결률              | 95%    | 89%         | 
-| 기술 블로그 게시물       | 24편   | 15편        |
-| 오픈소스 기여도          | 8회    | 5회         |
+| 학습 정리 총 커밋 수        | 136  | 0%         |
+| 정기모임 요약 총 커밋 수     | 17    | 0%         | 
+| 최종 프로젝트 결과물      | 1편   | 0편        |
 
 
 ## 💻 주차별 활동 (Activity History)
 
-| 날짜 | 내용 | 발표자 | 
-| -------- | -------- | ---- |
-| 2025/02/ | OT       |      |
-| 2025/02/ |  Part 1. | 미정 | 
-| 2025/02/ |  Part 2. | 미정 | 
-| 2025/02/ |  Part 3. | 미정 | 
-| 2025/03/ |  Part 4. | 미정 | 
-| 2025/03/ |  Part 5. | 미정 | 
+- [프로젝트 주차별 활동 계획](https://www.notion.so/chanrankim/Beyond-Why-255963ffa3ee80768c8ed406039125bd?source=copy_link#257963ffa3ee80ca8a88d4fae1432e20)
 
 
 
-## 💡 학습 자원 (Learning Resources)
+## 💡 학습 자원 및 참고 링크(Learning Resources)
 **우리가 만든 지식 허브**  
-- [AI Playbook](https://github.com/your-org/ai-playbook): 150+ 페이지의 실전 가이드
-- [MLOps Pipeline Template](https://github.com/your-org/mlops-template): 재사용 가능한 인프라 코드
-- [Failure Journal](https://your-org.github.io/failure-journal): 50+개의 실패 사례 분석 [31][34]
+- [주차별 학습 정리본](https://github.com/your-org/ai-playbook): 매주 학습하는 내용에 대한 팀원들의 개인 정리 내용
+- [프로젝트 최종 결과물](): 인과추론을 실무에서 활용하기 위한 체크리스트 및 가이드라인 결과물
+- [(참고)가짜연구소 인과추론팀 Github](https://github.com/CausalInferenceLab)
+- [(참고)원서](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/preface01.html): Causal Inference In Python)
 
 
 ## 🌱 참여 안내 (How to Engage)
-- 빌더로 참여 — 프로젝트 기획·운영 주도
-- 러너로 참여 — 연구·개발·테스트 등 실행
+- 빌더로 참여 — 프로젝트 기획·운영 및 모더레이터 역할
+- 러너로 참여 — 프로젝트 목표 달성을 위한 학습·연구·결과물 제작 참여(9/17~1/28)
 - 청강 참여 — 공개 세션 참여 가능
 
 ❗️참여 링크: [가짜연구소 디스코드](https://discord.gg/EPurkHVtp2)
 ❗️커뮤니케이션 채널: 디스코드 #{{채널명}}
 
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
-1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-GH 채널로 입장
+매주 정기 모임 시간 : 수요일 오후 8시 디스코드(채널은 확정 후 공유)(매달 마지막 모임은 오프라인으로 진행)
+1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room- 채널로 입장
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab 행사에서 만나기
 
@@ -124,7 +113,7 @@ class CollaborationFramework:
 
 이 프로젝트는 가짜연구소 Open Academy로 진행됩니다.
 여러분의 참여와 기여가 ‘우연한 혁명(Serendipity Revolution)’을 가능하게 합니다. 모두에게 깊은 감사를 전합니다.
-OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
+Beyond-Why is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
 ## About Pseudo Lab 👋🏼</h2>
 
@@ -140,10 +129,3 @@ OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thank
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-🚩 추가 팁 (Usage Tips)
-- 각 항목 내 {{ }} 표시된 부분을 프로젝트에 맞게 꼭 수정하세요.
-- 불필요한 프로젝트 유형 예시는 제거하거나 교체해 명확하게 하세요.
-- 로드맵과 활동내역 부분에 Mermaid 다이어그램 등을 이용해 시각적으로 표현하는 것을 추천합니다.
-- 체크박스(✅)와 표를 적절히 활용하면 진행 상황 한눈에 파악이 쉽습니다.
-- ‘빌더’와 ‘러너’의 역할 분담과 상호 피드백 문화 강화에 README 내 문장으로 강조를 절대 잊지 마세요.
-- README가 단순 안내서 이상으로 공동체 철학과 가치를 담는 협업 선언문임을 인지하고, 누구나 읽고 이해하기 쉽도록 간결 명료하게 작성하세요.
