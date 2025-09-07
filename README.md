@@ -40,7 +40,12 @@
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
 | **Project Manager** | 김동섭 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) |         |
-| **Member** | 모집 중 |   |                   |
+| **Member** | 조수민 |   |                   |
+| **Member** | 김이준 |   |                   |
+| **Member** | 손두환 |   |                   |
+| **Member** | 이현희 |   |                   |
+| **Member** | 김효은 |   |                   |
+| **Member** | 김한결 |   |                   |
 <br/>
 
 
@@ -69,7 +74,8 @@ gantt
 class CollaborationFramework:
     def __init__(self):
         self.tools = {
-            'communication': 'Discord',
+            'Online Study': 'Discord',
+            'communication': 'KaKaoTalk',
             'version_control': 'GitHub Projects',
             'ci/cd': 'GitHub Actions',
             'docs': 'Github Wiki'
