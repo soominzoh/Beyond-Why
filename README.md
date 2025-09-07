@@ -106,7 +106,7 @@ class CollaborationFramework:
 
 ## 💡 학습 자원 및 참고 링크(Learning Resources)
 **우리가 만든 지식 허브**  
-- [주차별 학습 정리본](https://github.com/your-org/ai-playbook): 매주 학습하는 내용에 대한 팀원들의 개인 정리 내용
+- [주차별 학습 정리본](https://github.com/Pseudo-Lab/Beyond-Why/tree/main/weekly-archive): 매주 학습하는 내용에 대한 팀원들의 개인 정리 내용
 - [프로젝트 최종 결과물](): 인과추론을 실무에서 활용하기 위한 체크리스트 및 가이드라인 결과물
 - [(참고)가짜연구소 인과추론팀 Github](https://github.com/CausalInferenceLab)
 - [(참고)원서](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/preface01.html): Causal Inference In Python
